@@ -1,6 +1,6 @@
 public class Chapter1 {
     public static void main(String[] args){
-        int x = 4;
+        int x = 6;
         int y = 10;
         int tmp;
         tmp = x;
