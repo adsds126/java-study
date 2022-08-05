@@ -4,9 +4,9 @@ import org.w3c.dom.ls.LSOutput;
 import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
-        String name1 = "히오니";
+        String name1 = "taess";
         int level1 = 50;
-        String introduce1 ="이쁨";
+        String introduce1 ="강함";
         User a = new User(name1, level1, introduce1);
         a.setJob("직업:worrier");
 
